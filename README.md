@@ -1,3 +1,3 @@
-# Plots For Researc Paper
+# Plots For Research Paper
 All the plots given in image folder are plotted using python. 
 
